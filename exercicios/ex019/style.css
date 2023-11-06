@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/*
+em HMTL é id = em CSS # (Só pode um elemento)
+em HTML class = em CSS . (pode varios elementos)
+*/
+
+body {
+background-color:  #93dbc1 
+
+}
+h1 {
+
+    color: #3E5C51
+    
+}
+h2 {
+
+    color: #A7FADC
+}
+h1#principal {
+
+    text-align: center;
+    background-color: rgb(255, 255, 255)
+    
+}
+.basico {
+
+    color: #598575;
+}
+

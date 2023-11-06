@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+
+    background-color: rgb(201, 30, 192);
+}
+h1 {
+  
+    color: blue;
+    font-size: small;
+    font: 100;
+    
+}
